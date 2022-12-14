@@ -16,6 +16,8 @@
 
 <body class="w3-light-grey">
 
+<h1>test1</h1>
+
 <!-- Navigation Bar -->
 <%@include file="include/navbar.jsp"%>
 <p/>
